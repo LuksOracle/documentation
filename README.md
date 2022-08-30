@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://luksoracle.github.io/frontend/">
     <img src="./images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,7 +11,7 @@
   <p align="center">
     Bringing Twitter to Lukso with ChainLink Oracle Services
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>View Demo »</strong></a>
+    <a href="#"><strong>View Demo »</strong></a>
 
   </p>
 </div>
