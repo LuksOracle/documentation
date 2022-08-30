@@ -43,7 +43,7 @@ If you're using a UP, start at step 3; otherwise, start at step 1.
 
 4. Go to the [TNS page](https://luksoracle.github.io/frontend/twitter.html), connect your wallet, and insert your retrieved Twitter ID in the text-field, and hit the `Register` button. 
 
-__NOTE:__ Notice that, in the TNS page, the `Twitter LINK Balance` in the modal above the text-fields shows the amount of LINK in the twitter contract. If the LINK balance is larger than 0 LINK, you should be okay to proceed. Otherwise, the modal will display an address you will need to send LINK to (from Step 2) with a wallet before being able to register your twitter account.
+  __NOTE:__ Notice that, in the TNS page, the `Twitter LINK Balance` in the modal above the text-fields shows the amount of LINK in the twitter contract. If the LINK balance is larger than 0 LINK, you should be okay to proceed. Otherwise, the modal will display an address you will need to send LINK to (from Step 2) with a wallet before being able to register your twitter account.
 
 5. Once you have registered and you have confirmed the transctions through MetaMask, you should be able to insert your Twitter ID into the text-field and see the wallet address linked to it but hitting the `Enter` button.
 
