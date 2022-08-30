@@ -65,4 +65,5 @@ If you have a suggestion that would make this better, please fork the repo and c
 smart contracts: [Marcus Wentz](https://twitter.com/goerlibot) <br>
 devops: [@0x_rxx](https://twitter.com/0x_rxx) <br>
 frontend: [@0xfinesto](https://twitter.com/0xfinesto) <br>
-logo: [@gabibibah](https://twitter.com/gabibibah)
+logo: [@gabibibah](https://twitter.com/gabibibah) <br>
+advisor(s): [@johannafransn](https://github.com/johannafransn)
