@@ -27,12 +27,13 @@ Twitter Name Space (TNS) is using ChainLink Oracle Request to verify your Twitte
 
 The website is divided into two parts:
 
-The ChainLink Faucet where any user can claim LINK from the faucet at every __12 hour__ intervals. This is a mitigation used to prevent spam atacks and prevent bad actors from draining the protocols.
+The ChainLink Faucet where any user can claim LINK from the faucet at every __12 hour__ intervals. This is a mitigation used to prevent spam atacks and prevent bad actors from draining the pool.
 
-The Twitter Name Space where any user can __connect__ their Twitter ID to their wallet address, __update__ / __resolve__ their existing wallet address to a different twitter ID, or __search__ a user's twitter ID to see their connected wallet.
+The Twitter Name Space where any user can __connect__ their Twitter ID to their wallet address, __update__ / __resolve__ their existing wallet address to a different twitter ID, and __search__ a user's twitter ID to see their connected wallet.
 
 ## Guide (Step-by-step)
 The website can be daunting at first for inexperienced tech users. As a result, we have currated this guide to ease the process of registering you TNS!
+If you're using a UP, start at step 3; otherwise, start at step 1.
 
 1. First and foremost, you must have L16 LYXE test-net tokens. These will be used for gas. You can acquire these [here](https://faucet.l16.lukso.network/).
 
@@ -40,7 +41,9 @@ The website can be daunting at first for inexperienced tech users. As a result, 
 
 3. Retrieve your [Twitter ID](https://tweeterid.com/) by entering your twitter username (e.g. @rickastley = 148137271).
 
-4. Go to the [TNS page](https://luksoracle.github.io/frontend/twitter.html), connect your wallet, and insert your retrieved Twitter ID in the text-field, and hit the `Register` button. __NOTE:__ Notice the `Twitter LINK Balance` in the modal above the text-fields may show the amount of LINK that is in the twitter contract. If it is empty, you will need to send that previously acquired LINK from Step 2 into the contract address. If the LINK balance is larger than 0 LINK, you should be okay to proceed.
+4. Go to the [TNS page](https://luksoracle.github.io/frontend/twitter.html), connect your wallet, and insert your retrieved Twitter ID in the text-field, and hit the `Register` button. 
+
+__NOTE:__ Notice that, in the TNS page, the `Twitter LINK Balance` in the modal above the text-fields shows the amount of LINK in the twitter contract. If the LINK balance is larger than 0 LINK, you should be okay to proceed. Otherwise, the modal will display an address you will need to send LINK to (from Step 2) with a wallet before being able to register your twitter account.
 
 5. Once you have registered and you have confirmed the transctions through MetaMask, you should be able to insert your Twitter ID into the text-field and see the wallet address linked to it but hitting the `Enter` button.
 
@@ -63,7 +66,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## Acknowledgments
 
 smart contracts: [Marcus Wentz](https://twitter.com/goerlibot) <br>
-devops: [@0x_rxx](https://twitter.com/0x_rxx) <br>
+devops+js: [@0x_rxx](https://twitter.com/0x_rxx) <br>
 frontend: [@0xfinesto](https://twitter.com/0xfinesto) <br>
 logo: [@gabibibah](https://twitter.com/gabibibah) <br>
 advisor(s): [@johannafransn](https://github.com/johannafransn)
