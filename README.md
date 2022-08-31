@@ -66,7 +66,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## Acknowledgments
 
 smart contracts: [Marcus Wentz](https://twitter.com/goerlibot) <br>
-devops+js: [@0x_rxx](https://twitter.com/0x_rxx) <br>
-frontend: [@0xfinesto](https://twitter.com/0xfinesto) <br>
+devops: [@0x_rxx](https://twitter.com/0x_rxx) <br>
+frontend & docs: [@0xfinesto](https://twitter.com/0xfinesto) <br>
 logo: [@gabibibah](https://twitter.com/gabibibah) <br>
-advisor(s): [@johannafransn](https://github.com/johannafransn)
+advisor: [@johannafransn](https://github.com/johannafransn)
